@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">Practical2</string>
+    <string name="header">Places to go to when</string>
+    <string name="hobby">Cycling</string>
+    <string name="location1">Southern Ridges Loop</string>
+    <string name="location2">Eastern Coastal Loop</string>
+    <string name="location3">Northern Eastern Riverine Loop</string>
+    <string name="location4">Central Urban Loop</string>
+    <string name="location5">Northern Explorer Loop</string>
+    <string name="location6">Western Adventure Loop</string>
+
+    <string name="desc1">
+        Difficulty level: Moderate\n \n
+        Distance: ~9km\n\n
+        Cycle through green, open spaces across Mount Faber Park and Telok Blangah Hill Park on The Southern Ridges Loop.
+        The route consists of short but steep hill terrain, so switch to your lowest gear while moving uphill. \n \n
+        Starting at South Buona Vista Road, cycle till you meet the 80m-long Alexandra Arch, popularly known as a ‘Gateway to Nature’.
+        Wander along the Forest Walk, where you’d experience the dense secondary forest of Telok Blangah Hill. \n \n
+        Arrive at the iconic Henderson Waves, famous for its undulating wave-like structure. Here, dismount and push your bicycles for a break,
+        and keep an eye out for both potential photo opportunities as well as rare birds such as the Drongo and Yellow Oriole. \n \n
+        While making your way up to Mount Faber—one of our city’s most romantic viewpoints— slow down to watch passing ocean liners and cruise ships sail by Harbourfront. \n \n
+        At Mount Faber, treat yourself to hill-top dining at Arbora or Dusk. To end the perfect day, enjoy a cable car ride back to Harbourfront, bikes and satisfied appetites in tow. \n \n
+        Where to rent your bike: Bring your own, or rent from City Scoot Singapore. \n \n
+        Nearest MRT Station: Harbourfront, Exit D at Marang Road (trail takes you to the cable car station at Mount Faber).
+    </string>
+
+    <string name="desc2">
+        Difficulty level: Moderate\n\n
+        Distance: ~20km to Changi, ~27km to Marina Bay\n\n
+        Connecting East Coast Park to Pasir Ris Park, the Eastern Coastal Loop will enthrall you with the enchanting sights of rainforest, wetland and coastal landscapes. \n \n
+        Start out at East Coast Park with a relaxed picnic by the sea. This is a great spot to people-watch and soak in the tropical weather to the sound of passing bicycles and the chatter of families taking a seaside stroll. \n \n
+        If you’d like to fuel up before your ride, indulge in a hearty meal of satay (grilled meat skewers), sambal stingray (grilled stingray served with spicy chilli paste) and barbequed chicken wings at East Coast Lagoon Food Village. \n \n
+        Then, hop on a bike and ride all the way to Changi Beach Park. Reward yourself with a local meal at Changi Village Hawker Centre, famous for its nasi lemak (coconut rice dish) and Goreng Pisang (banana fritters). \n \n
+        Alternatively, take a longer break in the cosy hideout of Little Island Brewery Co. over finger food and pizzas, before making your way back to East Coast Park. \n \n
+        If you prefer cycling towards urban landscapes, head in the opposite direction from East Coast Park. \n \n
+        You’ll find yourself cycling through Gardens by the Bay and towards Marina Barrage alongside the Marina Bay skyline. If you’re lucky, you might spot our resident otter family sunbathing along the roadside. \n \n
+        Where to rent your bike: From any bike rental store at East Coast Park. \n \n
+        Nearest MRT Station: Bedok. Take Bus 36/48/196 to Marine Parade Road, and cross from the East Coast Parkway (ECP Highway) to East Coast Park via the pedestrian underpass.
+    </string>
+
+    <string name="desc3">
+        Difficulty level: Easy\n\n
+        Distance: ~26km\n\n
+        An up-and-coming neighbourhood, the Punggol district is home to spacious waterways and parks that’re bound to rejuvenate your inner nature lover. \n \n
+        Cycling along the flat terrain of the Northern Eastern Riverine Loop will take you through the heartlands of Buangkok, Sengkang and Punggol, to Punggol Beach, and the Lorong Halus Wetland. \n \n
+        Starting at Punggol Park, cycle along and cross the Sungei Pinang footbridge to views of the scarlet-coloured Coral Plant. \n \n
+        Then, head to the lookout points at Punggol Promenade. Stop for a snack break at the quirky container-themed food outlets at Tebing Lane. \n \n
+        Ride on, and you’ll find the Lorong Halus Wetland. The size of 18 football fields, this scenic stretch was previously a landfill but is currently used to treat rainwater to sustain our city.\n \n
+        Be sure to take a detour to Punggol Waterway Park, fondly known as ‘Venice of Punggol’ for its winding reservoirs and suspension bridges. Sunset lovers can head to the Adventure Bridge for an unrivalled view,
+        while early birds can head to the Sunrise Bridge to watch the day begin. \n \n
+        When your adventure is done, head towards Punggol Waterway Mall to wind down over a meal and some retail therapy. \n \n
+        Where to rent your bike: Punggol Park, at the start of Serangoon Park Connector. \n \n
+        Nearest MRT Station: Buangkok. Take a 10min walk to Punggol Park via the Serangoon Park Connector.
+    </string>
+
+    <string name="desc4">
+        Difficulty level: Moderate\n\n
+        Distance: ~36km\n\n
+        On the Central Urban Loop, Singapore’s heartlands of Bishan, Ang Mo Kio, Toa Payoh, and Whampoa will give you an intimate glimpse into the everyday life of Singaporeans.\n \n
+        Food lovers are in for a treat—the route passes by the Block 17 Upper Boon Keng Road and Block 79 Circuit Road Hawker Centres. Take pit stops along the way to enjoy local delights such as laksa
+        (spicy coconut milk-based noodle soup), Fried Oyster, or an iced-cold Sugarcane drink to beat the heat. \n \n
+        Start from Toa Payoh Town Park, and ride through the Whampoa and Kallang Park connectors.\n \n
+        At Bishan, stop by Bishan-Ang Mo Kio Park— one of the largest urban parks in Central Singapore. With the Kallang River as its backdrop, and sprawling recreation playgrounds, you’d want to make a few more stops here to enjoy the scenery. \n \n
+        This route winds through heartland housing estates, so do keep to the cycling paths, and consider dismounting in the more crowded parts of the neighbourhood! \n \n
+        Where to rent bikes: Hin Leong Cycle, Toa Payoh\n \n
+        Nearest MRT Station: Toa Payoh
+    </string>
+
+    <string name="desc5">
+        Difficulty level: Moderate – Challenging\n\n
+        Distance: ~11km\n\n
+        Uncover hidden gems in Singapore’s Northernmost region by cycling through the undulating terrain of Woodlands, Yishun, and Sembawang. The reward—lush forests,
+        and seaside views from Woodlands Waterfront, one of Singapore’s longest coastal jetties.\n \n
+        Start from Lower Seletar Reservoir Park, a natural sanctuary that’s home to still waters and deep forests, away from the bustle of city life. As you cycle through the Mandai Park Connector,
+        keep an eye out for cheeky, long-tailed Macaques. \n \n
+        At this point, brace yourself to really work those muscles, as the route gets hillier with some off-road conditions at the Ulu Sembawang Park Connector. \n \n
+        Arrive at Admiralty Park, and ride on to visit Woodlands Waterfront. Finish off at Sembawang Park, where one of the few natural sand beaches remain. \n \n
+        Where to rent bikes: No rental facility nearby—your best option is to rent from City Scoot.\n \n
+        Nearest MRT Station: Khatib. From there, take a 5-minute walk to the starting point at the Yishun Park Connector.
+    </string>
+
+    <string name="desc6">
+        Difficulty level: Moderate – Challenging\n\n
+        Distance: ~12km\n\n
+        Cycling through the wild west of Singapore on the Western Adventure Loop is a great option for adventurous cyclists looking to have fun in off-the-beaten-track conditions. \n \n
+        Begin your journey at Choa Chu Kang Park, and cycle through the scenic Pang Sua Park Connector. Keep your eyes to the tree and the skyline as you travel along the Bukit Panjang Park Connector,
+        which is home to over 50 different species of birds. \n \n
+        Pass by Zhenghua Nature Park’s rugged terrain and admire the rural charm of its untouched vegetation. \n \n
+        Cycle into the Dairy Farm Nature Park, which is famous amongst local outdoor enthusiasts for its rock-climbing and hiking facilities. You may want to take a quick breather here to enjoy
+        the tranquillity far away from Singapore’s urban city centre.\n \n
+        Ride on to Bukit Batok Nature Park—you’ll know you’ve reached your destination when you spot the high cliff wall and a quarry pond at the entrance. \n \n
+        Take a short water break here, then cycle on to the last stop at Jurong Lake Gardens. The newest of Singapore’s national gardens, this verdant space is home to lush greenery and diverse fauna like otters and long tail macaques. \n \n
+        Where to rent your bike: No rental facility nearby. Your best option is to rent from Hin Leong Cycle and take the North-South Line down to Choa Chu Kang.\n \n
+        Nearest MRT Station: Choa Chu Kang. Take a 10min walk to the start point via the Choa Chu Kang Park Connector.
+    </string>
+
+
+
+    <string name="malayDesc1">
+        Tahap kesukaran: Sederhana \n \n
+        Jarak: ~ 9km \n \n
+        Lalui kawasan hijau dan terbuka di Taman Mount Faber dan Taman Telok Blangah Hill di The Southern Ridges Loop.
+        Laluan ini terdiri daripada kawasan bukit yang pendek tetapi curam, jadi beralih ke gear terendah anda semasa bergerak ke atas. \n \n
+        Bermula di South Buona Vista Road, berkeliling sehingga anda dapat memenuhi Alexandra Arch sepanjang 80 meter, yang terkenal sebagai ‘Gateway to Nature’.
+        Bersiar-siar di sepanjang Forest Walk, di mana anda akan mengalami hutan sekunder Bukit Telok Blangah yang lebat. \n \n
+        Tiba di Henderson Waves yang ikonik, terkenal dengan struktur seperti gelombang bergelombang. Di sini, turun dan tolak basikal anda untuk berehat,
+        dan perhatikan peluang berpotensi serta burung langka seperti Drongo dan Yellow Oriole. \n \n
+        Sambil melangkah ke Gunung Faber - salah satu sudut pandang paling romantis di kota kami - perlahan-lahan menyaksikan kapal laut yang lewat dan kapal pesiar berlayar di Harbourfront. \n \n
+        Di Mount Faber, manjakan diri dengan santapan di puncak bukit di Arbora atau Dusk. Untuk mengakhiri hari yang sempurna, nikmati perjalanan dengan kereta kabel ke Harbourfront, basikal dan selera yang memuaskan. \n \n
+        Tempat menyewa basikal anda: Bawa kenderaan anda sendiri, atau sewa dari City Scoot Singapore. \n \n
+        Stesen MRT terdekat: Harbourfront, Exit D di Marang Road (laluan membawa anda ke stesen kereta kabel di Mount Faber).
+    </string>
+
+    <string name="malayDesc2">
+        Tahap kesukaran: Sederhana \n \n
+        Jarak: ~ 20km ke Changi, ~ 27km ke Marina Bay \n \n
+        Menghubungkan Taman Pantai Timur ke Taman Pasir Ris, Pantai Timur Gelung akan memikat anda dengan pemandangan hutan hujan, tanah lembap dan pemandangan pesisir yang mempesonakan. \n \n
+        Mulakan di East Coast Park dengan berkelah santai di tepi laut. Ini adalah tempat yang bagus untuk menonton orang dan berendam dalam cuaca tropika dengan bunyi basikal yang lewat dan perbincangan keluarga yang berjalan-jalan di tepi pantai. \n \n
+        Sekiranya anda ingin mengisi sebelum perjalanan anda, nikmati sate (sate daging panggang), sambal stingray (ikan pari panggang yang disajikan dengan pes cili pedas) dan sayap ayam panggang di East Coast Lagoon Food Village. \n \n
+        Kemudian, naik basikal dan naik hingga ke Changi Beach Park. Nikmati makanan tempatan anda di Pusat Penjaja Desa Changi, yang terkenal dengan nasi lemak (hidangan nasi kelapa) dan Goreng Pisang (goreng pisang). \n \n
+        Sebagai pilihan, berehat lebih lama di tempat persembunyian Little Island Brewery Co. yang selesa di atas makanan ringan dan pizza, sebelum kembali ke East Coast Park. \n \n
+        Sekiranya anda lebih suka berbasikal ke arah pemandangan bandar, pergi ke arah yang bertentangan dari East Coast Park. \n \n
+        Anda akan dapat berbasikal melalui Gardens by the Bay dan menuju ke Marina Barrage di sebelah kaki langit Marina Bay. Sekiranya anda bernasib baik, anda mungkin melihat keluarga kami yang tinggal berjemur di tepi jalan. \n \n
+        Tempat menyewa basikal anda: Dari mana-mana kedai penyewaan basikal di East Coast Park. \n \n
+        Stesen MRT terdekat: Bedok. Naik Bas 36/48/196 ke Marine Parade Road, dan menyeberang dari East Coast Parkway (ECP Highway) ke East Coast Park melalui pejalan kaki pejalan kaki.
+    </string>
+
+    <string name="malayDesc3">Tahap kesukaran: Mudah \n \n
+         Jarak: ~ 26km \n \n
+        Kawasan kejiranan yang akan datang, daerah Punggol adalah rumah bagi jalan air dan taman yang luas yang pasti dapat meremajakan pencinta alam dalaman anda. \n \n
+        Berbasikal di sepanjang medan rata dari Loop Riverine Timur Utara akan membawa anda melalui pusat bandar Buangkok, Sengkang dan Punggol, ke Pantai Punggol, dan Lorong Halus Wetland. \n \n
+        Bermula di Taman Punggol, berkeliling dan menyeberangi jambatan pejalan kaki Sungei Pinang ke pemandangan Coral Plant berwarna merah. \n \n
+        Kemudian, pergilah ke tempat mencari di Punggol Promenade. Berhenti untuk berehat makanan ringan di kedai makanan bertema kontena yang unik di Tebing Lane. \n \n
+        Naik, dan anda akan dapati Lorong Halus Wetland. Luas 18 padang bola, hamparan pemandangan ini sebelumnya adalah tempat pembuangan sampah tetapi kini digunakan untuk merawat air hujan untuk menampung bandar kita. \n \n
+        Pastikan anda mengambil jalan memutar ke Punggol Waterway Park, yang terkenal sebagai ‘Venice of Punggol’ kerana takungan yang berliku dan jambatan gantung. Pencinta matahari terbenam boleh menuju ke Adventure Bridge untuk pemandangan yang tiada tandingannya,
+        sementara burung awal boleh menuju ke Jambatan Matahari Terbit untuk menyaksikan hari bermula. \n \n
+        Apabila pengembaraan anda selesai, pergi ke Punggol Waterway Mall untuk bersantai sambil menikmati makanan dan beberapa terapi runcit. \n \n
+        Tempat menyewa basikal anda: Taman Punggol, di permulaan Serangoon Park Connector. \n \n
+        Stesen MRT terdekat: Buangkok. Berjalan kaki 10 minit ke Punggol Park melalui Serangoon Park Connector.
+    </string>
+
+    <string name="malayDesc4">
+        Tahap kesukaran: Sederhana \n \n
+        Jarak: ~ 36km \n \n
+        Di Central Urban Loop, pusat bandar Bishan, Ang Mo Kio, Toa Payoh, dan Whampoa di Singapura akan memberi anda gambaran mendalam mengenai kehidupan seharian orang Singapura. \n \n
+        Pencinta makanan sedang mencari makanan - laluan melewati Jalan 17 Blok 17 Upper Boon Keng dan Blok 79 Pusat Penjaja Jalan Litar. Pergi ke pit stop untuk menikmati makanan tempatan seperti laksa
+        (sup mi berasaskan santan pedas), Fried Oyster, atau minuman tebu sejuk-sejuk untuk mengatasi panas. \n \n
+        Mulakan dari Taman Bandar Toa Payoh, dan melalui penyambung Whampoa dan Taman Kallang. \n \n
+        Di Bishan, singgah di Taman Bishan-Ang Mo Kio — salah satu taman bandar terbesar di Singapura Tengah. Dengan pemandangan Sungai Kallang, dan taman permainan rekreasi yang luas, anda ingin membuat beberapa lagi perhentian di sini untuk menikmati pemandangan. \n \n
+        Laluan ini melintasi kawasan perumahan di daratan, jadi terus ke laluan berbasikal, dan pertimbangkan untuk turun di kawasan kejiranan yang lebih sesak! \n \n
+        Tempat menyewa basikal: Hin Leong Cycle, Toa Payoh \n \n
+        Stesen MRT terdekat: Toa Payoh
+    </string>
+
+    <string name="malayDesc5">
+        Tahap kesukaran: Sederhana - Mencabar \n \n
+        Jarak: ~ 11km \n \n
+        Temukan permata tersembunyi di wilayah paling utara Singapura dengan mengayuh kawasan Medan Woodlands, Yishun, dan Sembawang yang bergelombang. Ganjarannya - hutan yang subur,
+        dan pemandangan tepi laut dari Woodlands Waterfront, salah satu jeti pantai terpanjang di Singapura. \n \n
+        Bermula dari Lower Seletar Reservoir Park, tempat perlindungan semula jadi yang menjadi tempat perairan pegunungan dan hutan yang dalam, jauh dari kesibukan kehidupan kota. Semasa anda melalui Jalan Mandai Connector,
+        awasi Macaques yang panjang lebar. \n \n
+        Pada ketika ini, bersiaplah untuk betul-betul menggerakkan otot-otot itu, kerana laluannya semakin lereng dengan beberapa keadaan di luar jalan di Ulu Sembawang Park Connector. \n \n
+        Tiba di Admiralty Park, dan terus berkunjung ke Woodlands Waterfront. Selesaikan di Sembawang Park, di mana salah satu dari beberapa pantai pasir semula jadi masih ada. \n \n
+        Tempat menyewa basikal: Tidak ada kemudahan sewa berdekatan - pilihan terbaik anda ialah menyewa dari City Scoot. \n \n
+        Stesen MRT terdekat: Khatib. Dari sana, berjalan kaki 5 minit ke titik permulaan di Yishun Park Connector.
+    </string>
+
+    <string name="malayDesc6">
+        Tahap kesukaran: Sederhana - Mencabar \n \n
+        Jarak: ~ 12km \n \n
+        Berbasikal di barat liar Singapura di Western Adventure Loop adalah pilihan terbaik untuk penunggang basikal yang ingin bersenang-senang dalam keadaan di luar trek. \n \n
+        Mulakan perjalanan anda di Taman Choa Chu Kang, dan jalan-jalan melalui Pang Sua Park Connector yang indah. Perhatikan pokok dan kaki langit semasa anda menyusuri Bukit Panjang Connector Park,
+        yang menempatkan lebih daripada 50 spesies burung yang berbeza. \n \n
+        Lewati kawasan Zhenghua Nature Park yang lasak dan kagumi daya tarikan luar bandar dari tumbuh-tumbuhannya yang tidak tersentuh. \n \n
+        Berbasikal ke Dairy Farm Nature Park, yang terkenal di kalangan peminat luaran tempatan kerana kemudahan mendaki dan mendaki gunung. Anda mungkin ingin menarik nafas lega di sini untuk dinikmati
+        ketenangan yang jauh dari pusat bandar Singapura. \n \n
+        Naik ke Bukit Batok Nature Park — anda akan tahu anda telah sampai ke destinasi anda apabila anda melihat dinding tebing tinggi dan kolam kuari di pintu masuk. \n \n
+        Beristirahat sejenak di sini, kemudian pergi ke perhentian terakhir di Jurong Lake Gardens. Taman nasional Singapura yang terbaru, ruang hijau ini adalah rumah bagi kehijauan yang subur dan pelbagai fauna seperti berang-berang dan monyet ekor panjang. \n \n
+        Tempat menyewa basikal anda: Tidak ada kemudahan sewa berdekatan. Pilihan terbaik anda ialah menyewa dari Hin Leong Cycle dan menaiki Laluan Utara-Selatan ke Choa Chu Kang. \n \n
+        Stesen MRT terdekat: Choa Chu Kang. Berjalan kaki 10 minit ke titik permulaan melalui Choa Chu Kang Park Connector.
+    </string>
+
+    <string name="more_info">More information</string>
+    <string name="malay_info">Maklumat lanjut</string>
+
+    <string name="url1">https://www.alltrails.com/trail/singapore/central/southern-ridges-and-labrador-park-loop#:~:text=Southern%20Ridges%20and%20Labrador%20Park%20Loop%20is%20a%205.6%20mile,trail%20running%2C%20and%20nature%20trips.</string>
+    <string name="url2">https://www.sgbike.com.sg/post/best-scenic-cycling-route-around-the-east-of-singapore</string>
+    <string name="url3">https://www.onceinalifetimejourney.com/lux-singapore/north-eastern-riverine-loop-singapore/</string>
+    <string name="url4">https://www.bikemap.net/en/r/5290059/#12.37/1.35087/103.86887</string>
+    <string name="url5">https://www.togoparts.com/magazine/guide/cycling-northern-explorer-loop-solitude-sunset/</string>
+    <string name="url6">https://www.bikemap.net/en/r/3370596/#12.9/1.37098/103.75164</string>
+</resources>
